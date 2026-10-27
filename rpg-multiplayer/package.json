@@ -1,0 +1,16 @@
+{
+  "name": "rpg-multiplayer",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "dotenv": "...",
+    "ejs": "...",
+    "express": "...",
+    "sequelize": "^6.37.8",
+    "sqlite3": "^6.0.1"
+  }
+}
